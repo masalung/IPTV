@@ -1,9 +1,6 @@
 
 #EXTM3U url-tvg="http://iptv-epg.com/da79-cxtrwr.xml" x-tvg-url="http://iptv-epg.com/da79-cxtrwr.xml"
 
-#EXTINF:-1 tvg-id="InTV.id" tvg-name="In TV ID" tvg-logo="https://imgur.com/kTbpS2U" tvg-chno="24" channel-id="24" group-title="INDOTV",MYTV
-https://edge.nim.mivo.tv/intv6vkhr543hkwt/intv_all/playlist.m3u8
-
 #EXTINF:-1 tvg-id="RajawaliTV.id" tvg-name="Rajawali TV ID" tvg-logo="https://imgur.com/2xtMOkq" tvg-chno="213" channel-id="213" group-title="INDOTV",RTV
 http://202.80.222.170/000001/2/ch00000090990000001716/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
@@ -85,7 +82,8 @@ http://202.80.222.130/000001/2/ch14041511564438196910/index.m3u8?virtualDomain=0
 #EXTINF:-1 tvg-id="MNCSports.id" tvg-name="MNC Sports ID" tvg-logo="https://imgur.com/l81fBDy" tvg-chno="17" channel-id="17" group-title="INDOTV",MNC_Sport
 https://live.mncnow.id/mncsports/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
-
+#EXTINF:-1 tvg-id="InTV.id" tvg-name="In TV ID" tvg-logo="https://imgur.com/kTbpS2U" tvg-chno="24" channel-id="24" group-title="INDOTV",MYTV
+https://edge.nim.mivo.tv/intv6vkhr543hkwt/intv_all/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imgur.com/fRTTL6B" tvg-chno="28" channel-id="28" group-title="LOCALTV",The Indonesia Channel
 http://202.93.133.3:1935/svr2/tic.com.stream_720p/chunklist_w752720676.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imgur.com/cSVWyeW" tvg-chno="30" channel-id="30" group-title="LOCALTV",I_AM
